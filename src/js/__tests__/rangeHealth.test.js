@@ -1,4 +1,4 @@
-import rangeHealth from '../index';
+import rangeHealth from '../../../index';
 
 test('Сортировка персонажей по состоянию', () => {
   const input = [
